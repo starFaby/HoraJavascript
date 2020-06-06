@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://res.cloudinary.com/dqmbrjl7jfs/image/upload/v1584637795/fondos%204k/1454245252_xqphr2.gif');
+    background-repeat: repeat-y;
+    background-size:  cover;
+}
+.opacity{
+    background-color: black;
+    /*opacity: 0.5;*/
+    color: white;
+}
+.letterBig{
+    font-size: 250% 
+}
+.letterSmall{
+    font-size: 25% 
+}
